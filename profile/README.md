@@ -16,5 +16,3 @@ Students will be mentored in a supportive and inclusive learning environment by 
 Earth and Space Research (www.esr.org), a Seattle-based non-profit research institute. Students will be exposed to
 a mixture of state-of-the-art data analysis techniques, satellite data (e.g., surface height measurements and visible
 images), and other weather, ocean, and ice data products.
-
-NICe JOB, SUSAN
