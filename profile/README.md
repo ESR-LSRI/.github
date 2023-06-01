@@ -8,9 +8,9 @@ will be focused on three topics:
 
 * The Antarctic Ice and Climate
 
-* The Weather and Climate of Mount Baker, and
+* The Weather and Climate of Mount Baker
 
-* Paleoclimate Studies in Greenland.
+* Climate Studies in Greenland
 
 Students will be mentored in a supportive and inclusive learning environment by scientists and educators from
 Earth and Space Research (www.esr.org), a Seattle-based non-profit research institute. Students will be exposed to
