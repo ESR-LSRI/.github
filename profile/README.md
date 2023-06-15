@@ -1,4 +1,4 @@
-## Lakeside Summer Research Institute
+## Earth and Space Research: Lakeside Summer Research Institute
 
 
 The Lakeside Summer Research Institute (LSRI) is a four-week summer research experience in which students
