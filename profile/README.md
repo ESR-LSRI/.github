@@ -6,7 +6,7 @@ engage in mentored research projects with tangible, externally-visible outcomes 
 presentations at regional and national conferences, peer-reviewed publications). This year, 2023, the LSRI 
 will be focused on three topics:
 
-* Antarctic Ice Sheets and Climate
+* Antarctic Ice Sheet and Climate
   
 * Antarctic Sea Ice and Climate
 
