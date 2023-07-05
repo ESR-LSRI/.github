@@ -4,7 +4,7 @@
 The Lakeside Summer Research Institute (LSRI) is a four-week summer research experience in which students
 engage in mentored research projects with tangible, externally-visible outcomes (e.g., educational blog posts,
 presentations at regional and national conferences, peer-reviewed publications). This year, 2023, the LSRI 
-will be focused on three topics:
+will be focused on four topics:
 
 * Antarctic Ice Sheet and Climate
   
